@@ -161,7 +161,9 @@ The average ratings of each core competency were calculated using all the target
 | 9. Leadership Skills | Hidden Curriculum | 4.24 |
 | 10. Resilience and Survival Skills | Hidden Curriculum | 4.32 |
 
-## Reflection on Qualitative Data (e.g. Course Evaluations Fall 2022 and Spring 2023)
+## Reflections
+
+### Qualitative Data (e.g. Course Evaluations Fall 2022 and Spring 2023)
 
 The course evaluations conducted for the 6 courses offered in Fall 2022 and 5 courses in Spring 2023 provided valuable qualitative feedback on various aspects of the courses and instructors. The following themes emerged from the evaluations:
 
@@ -180,15 +182,15 @@ The course evaluations conducted for the 6 courses offered in Fall 2022 and 5 co
 Overall, the qualitative feedback from the course evaluations indicates that the Pharmacology PhD Program is successfully delivering a high-quality education to its students, while also identifying areas for potential enhancement and growth.
 
 
-## Reflection on Quantitative Data Points
+### Quantitative Data 
 
 Upon analyzing the quantitative data of the student learning outcomes assessment report, we notice several data points that stood out in at least three competency areas:
 
-1. Deep Knowledge of a Specific Field (Competency 2): Students' ability to outline research questions/aims, demonstrate the significance and conceptual basis of the study, summarize key prior findings, and demonstrate advanced core knowledge improved from prelim to dissertation. This indicates that students are gaining deeper knowledge of their specific field as they progress through the program.
+1. **Deep Knowledge of a Specific Field** (Competency 2): Students' ability to outline research questions/aims, demonstrate the significance and conceptual basis of the study, summarize key prior findings, and demonstrate advanced core knowledge improved from prelim to dissertation. This indicates that students are gaining deeper knowledge of their specific field as they progress through the program.
 
-2. Critical Thinking Skills (Competency 3): From prelim to dissertation, there is a noticeable improvement in students' ability to recognize important unanswered questions, design and execute hypothesis-based experiments, outline standard and newer experimental approaches, and analyze and interpret data. This suggests that the program is effectively developing students' critical thinking skills in the context of their research.
+2. **Critical Thinking Skills** (Competency 3): From prelim to dissertation, there is a noticeable improvement in students' ability to recognize important unanswered questions, design and execute hypothesis-based experiments, outline standard and newer experimental approaches, and analyze and interpret data. This suggests that the program is effectively developing students' critical thinking skills in the context of their research.
 
-3. Communication Skills (Competency 8): The data shows that students' communication skills, both in oral presentation and written scientific manuscript, have improved from prelim to dissertation. This includes their ability to effectively communicate the significance of their research, answer questions clearly, and present analysis results.
+3. **Communication Skills** (Competency 8): The data shows that students' communication skills, both in oral presentation and written scientific manuscript, have improved from prelim to dissertation. This includes their ability to effectively communicate the significance of their research, answer questions clearly, and present analysis results.
 
 In summary, the data suggests that the program is effective in improving students' deep knowledge of a specific field, critical thinking skills, and communication skills. These improvements are demonstrated by the progression from preliminary exams to dissertation defenses. As students advance
 
