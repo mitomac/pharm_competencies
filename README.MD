@@ -192,7 +192,7 @@ Upon analyzing the quantitative data of the student learning outcomes assessment
 
 3. **Communication Skills** (Competency 8): The data shows that students' communication skills, both in oral presentation and written scientific manuscript, have improved from prelim to dissertation. This includes their ability to effectively communicate the significance of their research, answer questions clearly, and present analysis results.
 
-In summary, the data suggests that the program is effective in improving students' deep knowledge of a specific field, critical thinking skills, and communication skills. These improvements are demonstrated by the progression from preliminary exams to dissertation defenses. As students advance
+In summary, the data suggests that the program is effective in improving students' deep knowledge of a specific field, critical thinking skills, and communication skills. These improvements are demonstrated by the progression from preliminary exams to dissertation defenses. As students advance in the discpline they are clearly improving the key skills and competencies that will provide a strong foundation for their future careers in academia or industry.  
 
 ### Opportunities for the Pharmacology Program
 
