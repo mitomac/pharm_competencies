@@ -184,18 +184,13 @@ Overall, the qualitative feedback from the course evaluations indicates that the
 
 Upon analyzing the quantitative data of the student learning outcomes assessment report, we notice several data points that stood out in at least three competency areas:
 
+1. Deep Knowledge of a Specific Field (Competency 2): Students' ability to outline research questions/aims, demonstrate the significance and conceptual basis of the study, summarize key prior findings, and demonstrate advanced core knowledge improved from prelim to dissertation. This indicates that students are gaining deeper knowledge of their specific field as they progress through the program.
 
-#### Core Competency 4: Experimental Skills
+2. Critical Thinking Skills (Competency 3): From prelim to dissertation, there is a noticeable improvement in students' ability to recognize important unanswered questions, design and execute hypothesis-based experiments, outline standard and newer experimental approaches, and analyze and interpret data. This suggests that the program is effectively developing students' critical thinking skills in the context of their research.
 
-Students demonstrated a strong foundation in experimental skills, which is crucial in the field of pharmacology. This includes designing and executing experimental protocols, maintaining lab safety, and identifying appropriate experimental approaches. These skills are acquired through hands-on laboratory experiences, mentorship from faculty, and coursework that emphasizes experimental design and data analysis.
+3. Communication Skills (Competency 8): The data shows that students' communication skills, both in oral presentation and written scientific manuscript, have improved from prelim to dissertation. This includes their ability to effectively communicate the significance of their research, answer questions clearly, and present analysis results.
 
-#### Core Competency 6: Collaboration and Team Science Skills
-
-The high average rating in this competency indicates that students are well-prepared to work in interdisciplinary research teams. This skill set includes effective communication, trust-building, and an understanding of diverse scientific disciplines. The program promotes collaboration through group projects, joint research initiatives, and interdisciplinary seminars, fostering an environment where students can learn from their peers and faculty members across different fields.
-
-#### Core Competency 10: Resilience and Survival Skills
-
-Resilience and survival skills are essential for navigating the challenges of a Ph.D. program and succeeding in future careers. This competency encompasses motivation, persistence, and the ability to cope with setbacks. The program provides support and resources for students to develop these skills, such as mentorship, workshops on stress management, and opportunities for peer-to-peer learning.
+In summary, the data suggests that the program is effective in improving students' deep knowledge of a specific field, critical thinking skills, and communication skills. These improvements are demonstrated by the progression from preliminary exams to dissertation defenses. As students advance
 
 ### Opportunities for the Pharmacology Program
 
