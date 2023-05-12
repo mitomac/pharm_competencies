@@ -161,9 +161,9 @@ The average ratings of each core competency were calculated using all the target
 | 9. Leadership Skills | Hidden Curriculum | 4.24 |
 | 10. Resilience and Survival Skills | Hidden Curriculum | 4.32 |
 
-## Reflections
+## Reflections (Academic Year 2022 -- 2023)
 
-### Qualitative Data (e.g. Course Evaluations Fall 2022 and Spring 2023)
+### Qualitative Data (e.g. course evaluations)
 
 The course evaluations conducted for the 6 courses offered in Fall 2022 and 5 courses in Spring 2023 provided valuable qualitative feedback on various aspects of the courses and instructors. The following themes emerged from the evaluations:
 
