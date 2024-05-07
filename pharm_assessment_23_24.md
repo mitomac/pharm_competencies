@@ -24,7 +24,7 @@ Given the above program goals, the objectives of the Pharmacology PhD Program ar
 | 2. Deep Knowledge of a Specific Field | Annual Thesis Committee Meeting, Preliminary Exam, Dissertation Defense |
 | 3. Critical Thinking Skills | Preliminary Exam, Dissertation Defense |
 | 4. Experimental Skills | Lab Rotation, Annual Thesis Committee Meeting, Prelim Exam, Dissertation Defense |
-| 5. Computational Skills | - |
+| 5. Computational Skills | Lab Rotation, Annual Thesis Committee Meeting, Prelim Exam, Dissertation Defense |
 | 6. Collaboration and Team Science Skills | Lab Rotation, Annual Thesis Committee Meeting |
 | 7. RCR, Research Ethics, and R&R | Preliminary Exam, Dissertation Defense, Lab Rotation, Annual Thesis Committee Meeting |
 | 8. Communication Skills | Preliminary Exam, Dissertation Defense |
@@ -295,6 +295,7 @@ Conversely, instructors such as Ann Marie Pendergast and Antonius VanDongen rece
    - Introduce regular peer reviews and feedback sessions among instructors to share best practices and continually improve teaching methods.
 
 This summary reflects a commitment to upholding the highest educational standards and continuously seeking improvement to ensure the Pharmacology Ph.D. program remains a leader in scientific education and research training.
+
 #### Quantitative Learning Outcomes
 
 #### Assessment of Student Learning Competencies:
