@@ -299,9 +299,11 @@ This summary reflects a commitment to upholding the highest educational standard
 #### Quantitative Learning Outcomes
 
 #### Assessment of Student Learning Competencies:
-The assessment of student learning competencies in the Pharmacology Ph.D. Program provides a robust framework for evaluating the development of skills and knowledge essential for scientific careers. Data points from the various assessment tools indicate notable performance across several core competencies, particularly highlighting improvements as students progress through their graduate education. 
+The assessment of student learning competencies across the Pharmacology Ph.D. program reveals a progressive enhancement in mastering complex skills and knowledge from initial stages to more advanced levels of doctoral training. Notably, competencies such as **Critical Thinking Skills** and **Experimental Skills** show significant advancements as students progress from Preliminary Exams to Dissertation Defense, reflecting a structured curriculum that effectively builds these essential skills.
 
-For instance, competencies such as "Critical Thinking Skills" and "Experimental Skills" show significant advancement, with students demonstrating more sophisticated understanding and application of research methodologies and problem-solving as they move from Preliminary Exams to Dissertation Defense. This progression reflects the program’s effectiveness in nurturing depth of knowledge and analytical skills, crucial for independent scientific inquiry.
+- **Deep Knowledge of a Specific Field**: Students demonstrate a substantial increase in content expertise, with scores improving in areas such as the clear articulation of research questions and integration of knowledge during the Dissertation Defense compared to earlier assessments.
+- **Experimental Skills**: There is a notable progression in students' abilities to execute and design experimental protocols, with marked improvements in the Dissertation Defense phase.
+- **Communication Skills**: The advancement in students' abilities to communicate their research effectively is evident, with improvements seen from Preliminary Exams to Dissertation Defense, particularly in formal oral presentation skills.
 
 #### Strengths of the Program:
 The program excels in fostering a comprehensive understanding of Pharmacological Sciences, as evidenced by high scores in areas like "Collaboration and Team Science Skills" and "Communication Skills." These strengths are critical, as they reflect the program's commitment to producing graduates who are not only experts in their fields but also capable collaborators and communicators — traits that are invaluable in interdisciplinary and team-based scientific environments.
